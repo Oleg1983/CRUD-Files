@@ -1,0 +1,21 @@
+h1 {
+    color: orange;
+}
+
+.mainWrapper {
+    margin: 25px;
+}
+
+.info, .error {
+    text-align: center;
+    padding: 15px;    
+}
+
+.info {
+    color: green;
+    text-transform: uppercase;
+}
+
+.error {
+    color: red;
+}
